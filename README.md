@@ -1,2 +1,0 @@
-# datasciencecoursera
-datasciencecoursera_jeawonlll
